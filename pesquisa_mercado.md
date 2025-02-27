@@ -62,8 +62,8 @@
 #### O setor da restauração em Portugal está em constante evolução, adaptando-se às mudanças nas preferências dos consumidores e aos desafios económicos. Para prosperar em 2025, será crucial que os estabelecimentos estejam atentos às tendências emergentes e sejam capazes de inovar, mantendo-se fiéis à essência da gastronomia portuguesa.
 
 ![image](https://github.com/user-attachments/assets/fef5d6d8-62d6-4467-b6ad-c8e58d8c3ac2)
-¹[https://www.forbespt.com/restaurantes-faturaram-54-mil-milhoes-de-euros-em-2023/?](https://www.forbespt.com/restaurantes-faturaram-54-mil-milhoes-de-euros-em-2023/?) (#)
-²[https://www.timeout.pt/lisboa/pt/noticias/longa-vida-as-tascas-e-mais-algas-no-prato-eis-as-tendencias-da-restauracao-para-2025-101724?](https://www.timeout.pt/lisboa/pt/noticias/longa-vida-as-tascas-e-mais-algas-no-prato-eis-as-tendencias-da-restauracao-para-2025-101724?)
+¹ [https://www.forbespt.com/restaurantes-faturaram-54-mil-milhoes-de-euros-em-2023/?](https://www.forbespt.com/restaurantes-faturaram-54-mil-milhoes-de-euros-em-2023/?)<br>
+² [https://www.timeout.pt/lisboa/pt/noticias/longa-vida-as-tascas-e-mais-algas-no-prato-eis-as-tendencias-da-restauracao-para-2025-101724?](https://www.timeout.pt/lisboa/pt/noticias/longa-vida-as-tascas-e-mais-algas-no-prato-eis-as-tendencias-da-restauracao-para-2025-101724?)
 
 ## E Porque Precisas de um Analista de Dados?
 
