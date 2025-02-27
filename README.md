@@ -1,4 +1,4 @@
-# 📊 Portfólio de Análise de Dados para Restauração e Hotelaria
+# Análise de Dados para Restauração e Hotelaria
 
 ### 🚀 Sobre Mim
 Sou **Analista de Dados** especializado no setor de **alimentação e restauração**. Meu objetivo é ajudar empresas a **reduzir desperdícios, otimizar custos e entender melhor a demanda do público** para aumentar a rentabilidade.
