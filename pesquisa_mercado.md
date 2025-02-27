@@ -59,15 +59,13 @@
 #### 🔹Consumo de Algas: Espera-se um aumento na incorporação de algas na culinária, refletindo uma tendência global de procura por ingredientes sustentáveis e nutritivos². 
 #### 🔹Foco na Saúde e Bem-Estar: Os consumidores estão cada vez mais conscientes da importância de uma alimentação saudável, levando os restaurantes a adaptarem os seus menus para incluir opções mais equilibradas e nutritivas².
 
-### Considerações Finais
-
 #### O setor da restauração em Portugal está em constante evolução, adaptando-se às mudanças nas preferências dos consumidores e aos desafios económicos. Para prosperar em 2025, será crucial que os estabelecimentos estejam atentos às tendências emergentes e sejam capazes de inovar, mantendo-se fiéis à essência da gastronomia portuguesa.
 
 ![image](https://github.com/user-attachments/assets/fef5d6d8-62d6-4467-b6ad-c8e58d8c3ac2)
-¹[https://www.forbespt.com/restaurantes-faturaram-54-mil-milhoes-de-euros-em-2023/?](https://www.forbespt.com/restaurantes-faturaram-54-mil-milhoes-de-euros-em-2023/?)
+¹[https://www.forbespt.com/restaurantes-faturaram-54-mil-milhoes-de-euros-em-2023/?](https://www.forbespt.com/restaurantes-faturaram-54-mil-milhoes-de-euros-em-2023/?) (#)
 ²[https://www.timeout.pt/lisboa/pt/noticias/longa-vida-as-tascas-e-mais-algas-no-prato-eis-as-tendencias-da-restauracao-para-2025-101724?](https://www.timeout.pt/lisboa/pt/noticias/longa-vida-as-tascas-e-mais-algas-no-prato-eis-as-tendencias-da-restauracao-para-2025-101724?)
 
-## E Porque Precisas de um Analista de Dados
+## E Porque Precisas de um Analista de Dados?
 
 #### O setor da restauração está a mudar rapidamente e, em 2025, só quem souber adaptar-se vai continuar a crescer. A questão é: o teu negócio está preparado?
 
@@ -82,7 +80,12 @@
 #### Eu, Caroline Possas, posso ajudar-te a reduzir custos, aumentar a eficiência e melhorar a tua rentabilidade com análises personalizadas para o teu negócio.
 
 ### Vamos falar?
+
 ![image](https://github.com/user-attachments/assets/32950d36-a808-472f-8f55-8d564bc9f743)
 
+## 📬 Contato
+📧 Email: [carolinepossas@outlook.com](mailto:carolinepossas@outlook.com)  
+🔗 LinkedIn: [https://www.linkedin.com/in/caroline-possas/](#)  
+📍 Localização: [Porto, Portugal](#)  
 
 
