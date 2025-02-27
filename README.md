@@ -1,7 +1,7 @@
-# 📊 Portfólio de Análise de Dados para Restaurantes
+# 📊 Portfólio de Análise de Dados para Restauração e Hotelaria
 
 ### 🚀 Sobre Mim
-Sou um **Analista de Dados** especializado no setor de **alimentação e restaurantes**. Meu objetivo é ajudar empresas a **reduzir desperdícios, otimizar custos e entender melhor a demanda do público** para aumentar a rentabilidade.
+Sou **Analista de Dados** especializado no setor de **alimentação e restauração**. Meu objetivo é ajudar empresas a **reduzir desperdícios, otimizar custos e entender melhor a demanda do público** para aumentar a rentabilidade.
 
 ---
 
@@ -13,11 +13,11 @@ Sou um **Analista de Dados** especializado no setor de **alimentação e restaur
 - Estratégias para reduzir custos operacionais.
 
 ### 2️⃣ **Ferramenta de Gestão de Pedidos**
-- Planilha no Google Sheets para facilitar pedidos.
-- Automatização de compras com Make.com.
+- Ferramentas para facilitar pedidos.
+- Automatização de compras.
 - Redução do desperdício e maior controle sobre estoques.
 
-### 3️⃣ **Gestão de Estoque e Análise de Gastos em Eventos**
+### 3️⃣ **Tens uma Quinta? Gestão de Estoque e Análise de Gastos em Eventos**
 - Cálculo de custos médios por evento.
 - Ajuste de orçamento para evitar gastos excessivos.
 - Análise de custo por prato para maximizar rentabilidade.
@@ -33,15 +33,15 @@ Sou um **Analista de Dados** especializado no setor de **alimentação e restaur
 Aqui vou compartilhar alguns dos meus projetos de análise de dados aplicados ao setor de restaurantes.
 
 🔹 [Exemplo de análise de custos para um restaurante](#)  
-🔹 [Ferramenta de gestão de pedidos (Google Sheets)](#)  
+🔹 [Ferramenta de gestão de pedidos](#)  
 🔹 [Análise do comportamento do consumidor e demanda](#)  
 
 ---
 
 ## 📬 Contato
-📧 Email: [seuemail@email.com](mailto:seuemail@email.com)  
-🔗 LinkedIn: [seu perfil](#)  
-📍 Localização: [Cidade, País](#)  
+📧 Email: [carolinepossas@outlook.com](mailto:carolinepossas@outlook.com)  
+🔗 LinkedIn: [https://www.linkedin.com/in/caroline-possas/](#)  
+📍 Localização: [Porto, Portugal](#)  
 
 ---
 
