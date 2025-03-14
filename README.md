@@ -39,8 +39,8 @@ Aqui vou compartilhar alguns dos meus projetos de análise de dados aplicados ao
 ---
 
 ## 📬 Contato
-📧 Email: [carolinepossas@outlook.com](mailto:carolinepossas@outlook.com)  
-🔗 LinkedIn: [https://www.linkedin.com/in/caroline-possas/](#)  
+📧 Email: [geral@dadosgourmet.pt](mailto:geral@dadosgourmet.pt)  
+🔗 Site: [https://www.dadosgourmet.pt](#)  
 📍 Localização: [Porto, Portugal](#)  
 
 ---
