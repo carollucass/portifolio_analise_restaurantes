@@ -40,7 +40,7 @@ Aqui vou compartilhar alguns dos meus projetos de análise de dados aplicados ao
 
 ## 📬 Contato
 📧 Email: [geral@dadosgourmet.pt](mailto:geral@dadosgourmet.pt)  
-🔗 Site: [https://www.dadosgourmet.pt](#)  
+🔗 Site: [https://www.dadosgourmet.pt](https://www.dadosgourmet.pt)   
 📍 Localização: [Porto, Portugal](#)  
 
 ---
